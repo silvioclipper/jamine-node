@@ -1,1 +1,1 @@
-# jamine-node
+# jamine-node [![Build Status](https://travis-ci.org/silvioclipper/jamine-node.svg?branch=master)](https://travis-ci.org/silvioclipper/jamine-node)
